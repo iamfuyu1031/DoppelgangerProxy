@@ -13,7 +13,7 @@ python tcp_client.py
 **Tranform TCP into Minecraft**
 ```
 python tcp_server.py
-python tcp_forwarder.py
+python tcp_forwarder_minecraft.py
 python tcp_client.py
 ```
 
